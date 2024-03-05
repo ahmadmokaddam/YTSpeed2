@@ -12,6 +12,10 @@
 
 ## Description
 
+
+ I had the same idea ( YTClassicVideoQuality - https://github.com/PoomSmart/YTClassicVideoQuality)
+ Then I programmed the method and applied it to (YTSpeed)
+
 YTSpeed2 is a tweak that enhances the speed control options for YouTube, offering a broader range of playback speeds. It is built upon the original [YTSpeed](https://github.com/therealFoxster/YTSpeed/blob/3ddaf3d0e1b49b69a428d1ac877cf3bde8dd0861/Tweak.xm) tweak and introduces more choices for a customizable and enjoyable watching experience.
 
 ## Features
